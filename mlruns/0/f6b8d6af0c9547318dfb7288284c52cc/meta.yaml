@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f6b8d6af0c9547318dfb7288284c52cc/artifacts
+end_time: 1760294245963
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6b8d6af0c9547318dfb7288284c52cc
+run_name: languid-snipe-360
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760294240356
+status: 3
+tags: []
+user_id: User
