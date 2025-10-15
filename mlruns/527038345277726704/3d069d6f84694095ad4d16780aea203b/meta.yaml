@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/USB%20Drive/OOPS/MLFLOW/MLOPS-MLFlOW/mlruns/527038345277726704/3d069d6f84694095ad4d16780aea203b/artifacts
+end_time: 1760458826349
+entry_point_name: ''
+experiment_id: '527038345277726704'
+lifecycle_stage: active
+run_id: 3d069d6f84694095ad4d16780aea203b
+run_name: glamorous-grub-494
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760458826136
+status: 3
+tags: []
+user_id: User

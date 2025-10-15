@@ -1,0 +1,10 @@
+artifact_location: file:///D:/USB%20Drive/OOPS/MLFLOW/MLOPS-MLFlOW/mlruns/527038345277726704/models/m-8722e919d8704791bbe201bdb12bdaf3/artifacts
+creation_timestamp: 1760458828816
+experiment_id: '527038345277726704'
+last_updated_timestamp: 1760458866209
+model_id: m-8722e919d8704791bbe201bdb12bdaf3
+model_type: null
+name: random_forest
+source_run_id: f92fad3f2f4f4035930dfc2f4ed5125d
+status: 2
+status_message: null

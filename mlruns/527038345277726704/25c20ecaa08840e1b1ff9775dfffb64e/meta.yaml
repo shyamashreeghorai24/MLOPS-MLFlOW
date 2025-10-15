@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/USB%20Drive/OOPS/MLFLOW/MLOPS-MLFlOW/mlruns/527038345277726704/25c20ecaa08840e1b1ff9775dfffb64e/artifacts
+end_time: 1760464312146
+entry_point_name: ''
+experiment_id: '527038345277726704'
+lifecycle_stage: active
+run_id: 25c20ecaa08840e1b1ff9775dfffb64e
+run_name: rare-seal-311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760464311826
+status: 3
+tags: []
+user_id: User

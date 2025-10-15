@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/USB%20Drive/OOPS/MLFLOW/MLOPS-MLFlOW/mlruns/527038345277726704/708e66c6661b4826a94714d342ab1fd8/artifacts
+end_time: 1760464310543
+entry_point_name: ''
+experiment_id: '527038345277726704'
+lifecycle_stage: active
+run_id: 708e66c6661b4826a94714d342ab1fd8
+run_name: silent-hare-203
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760464310107
+status: 3
+tags: []
+user_id: User

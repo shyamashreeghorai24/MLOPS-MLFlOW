@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/USB%20Drive/OOPS/MLFLOW/MLOPS-MLFlOW/mlruns/527038345277726704/9d0d6be173374bb49f60312e6dd8c12a/artifacts
+end_time: 1760458826811
+entry_point_name: ''
+experiment_id: '527038345277726704'
+lifecycle_stage: active
+run_id: 9d0d6be173374bb49f60312e6dd8c12a
+run_name: redolent-bird-598
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760458826611
+status: 3
+tags: []
+user_id: User

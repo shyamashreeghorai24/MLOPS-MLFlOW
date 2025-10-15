@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/USB%20Drive/OOPS/MLFLOW/MLOPS-MLFlOW/mlruns/527038345277726704/1e149095a3354ce191c3cf990e7c9059/artifacts
+end_time: 1760458827540
+entry_point_name: ''
+experiment_id: '527038345277726704'
+lifecycle_stage: active
+run_id: 1e149095a3354ce191c3cf990e7c9059
+run_name: spiffy-crane-858
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760458827336
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/USB%20Drive/OOPS/MLFLOW/MLOPS-MLFlOW/mlruns/527038345277726704/2441638f908a4ffeb98187e903a9021f/artifacts
+end_time: 1760464308445
+entry_point_name: ''
+experiment_id: '527038345277726704'
+lifecycle_stage: active
+run_id: 2441638f908a4ffeb98187e903a9021f
+run_name: luxuriant-mouse-92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760464305447
+status: 3
+tags: []
+user_id: User

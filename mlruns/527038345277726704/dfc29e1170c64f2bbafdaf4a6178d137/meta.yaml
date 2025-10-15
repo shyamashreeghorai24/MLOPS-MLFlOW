@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/USB%20Drive/OOPS/MLFLOW/MLOPS-MLFlOW/mlruns/527038345277726704/dfc29e1170c64f2bbafdaf4a6178d137/artifacts
+end_time: 1760464308939
+entry_point_name: ''
+experiment_id: '527038345277726704'
+lifecycle_stage: active
+run_id: dfc29e1170c64f2bbafdaf4a6178d137
+run_name: delicate-robin-119
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760464308583
+status: 3
+tags: []
+user_id: User

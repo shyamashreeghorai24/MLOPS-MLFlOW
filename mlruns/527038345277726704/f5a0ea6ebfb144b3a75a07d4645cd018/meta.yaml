@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/USB%20Drive/OOPS/MLFLOW/MLOPS-MLFlOW/mlruns/527038345277726704/f5a0ea6ebfb144b3a75a07d4645cd018/artifacts
+end_time: 1760458828022
+entry_point_name: ''
+experiment_id: '527038345277726704'
+lifecycle_stage: active
+run_id: f5a0ea6ebfb144b3a75a07d4645cd018
+run_name: trusting-bear-938
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760458827811
+status: 3
+tags: []
+user_id: User

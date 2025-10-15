@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/USB%20Drive/OOPS/MLFLOW/MLOPS-MLFlOW/mlruns/527038345277726704/1c9c04fe28e34c60b67c891808cda020/artifacts
+end_time: 1760464312599
+entry_point_name: ''
+experiment_id: '527038345277726704'
+lifecycle_stage: active
+run_id: 1c9c04fe28e34c60b67c891808cda020
+run_name: abrasive-skunk-783
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760464312281
+status: 3
+tags: []
+user_id: User

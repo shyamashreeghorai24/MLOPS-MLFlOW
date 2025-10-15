@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/USB%20Drive/OOPS/MLFLOW/MLOPS-MLFlOW/mlruns/527038345277726704/3e3a57ed0a974cec9d6a638433059355/artifacts
+end_time: 1760464309424
+entry_point_name: ''
+experiment_id: '527038345277726704'
+lifecycle_stage: active
+run_id: 3e3a57ed0a974cec9d6a638433059355
+run_name: agreeable-perch-73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760464309078
+status: 3
+tags: []
+user_id: User

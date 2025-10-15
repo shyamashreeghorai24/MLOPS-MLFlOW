@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/USB%20Drive/OOPS/MLFLOW/MLOPS-MLFlOW/mlruns/527038345277726704/e0877251a841408b899b7771a911819d/artifacts
+end_time: 1760458826106
+entry_point_name: ''
+experiment_id: '527038345277726704'
+lifecycle_stage: active
+run_id: e0877251a841408b899b7771a911819d
+run_name: inquisitive-moth-491
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760458825903
+status: 3
+tags: []
+user_id: User

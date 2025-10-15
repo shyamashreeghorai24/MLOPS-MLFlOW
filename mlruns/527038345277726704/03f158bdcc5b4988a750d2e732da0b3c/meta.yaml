@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/USB%20Drive/OOPS/MLFLOW/MLOPS-MLFlOW/mlruns/527038345277726704/03f158bdcc5b4988a750d2e732da0b3c/artifacts
+end_time: 1760458825415
+entry_point_name: ''
+experiment_id: '527038345277726704'
+lifecycle_stage: active
+run_id: 03f158bdcc5b4988a750d2e732da0b3c
+run_name: angry-vole-203
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760458825179
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/USB%20Drive/OOPS/MLFLOW/MLOPS-MLFlOW/mlruns/527038345277726704/ff3ecfa42fc843f7bcd4562b0d42f6bd/artifacts
+end_time: 1760458827777
+entry_point_name: ''
+experiment_id: '527038345277726704'
+lifecycle_stage: active
+run_id: ff3ecfa42fc843f7bcd4562b0d42f6bd
+run_name: traveling-hawk-453
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760458827572
+status: 3
+tags: []
+user_id: User

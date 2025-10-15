@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/USB%20Drive/OOPS/MLFLOW/MLOPS-MLFlOW/mlruns/527038345277726704/9c631466c74043ff9d5f9bffb5b9aa34/artifacts
+end_time: 1760464313132
+entry_point_name: ''
+experiment_id: '527038345277726704'
+lifecycle_stage: active
+run_id: 9c631466c74043ff9d5f9bffb5b9aa34
+run_name: calm-croc-17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760464312732
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/USB%20Drive/OOPS/MLFLOW/MLOPS-MLFlOW/mlruns/527038345277726704/9d0782ff270c420fb9b1dc961a74874d/artifacts
+end_time: 1760464313632
+entry_point_name: ''
+experiment_id: '527038345277726704'
+lifecycle_stage: active
+run_id: 9d0782ff270c420fb9b1dc961a74874d
+run_name: respected-bass-210
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760464313270
+status: 3
+tags: []
+user_id: User
